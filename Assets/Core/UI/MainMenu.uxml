@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Core/UI/Global.uss?fileID=7433441132597879392&amp;guid=5e5a7d17300cdd94e86c1443ac300895&amp;type=3#Global" />
+    <ui:VisualElement style="flex-grow: 1; align-items: center; justify-content: center;">
+        <ui:VisualElement style="background-image: url(&quot;project://database/Assets/Core/Sprites/elements/element%20(2).png?fileID=2800000&amp;guid=978174d5f8e3e72488796e1f89d5dda1&amp;type=3#element (2)&quot;); -unity-background-scale-mode: scale-to-fit; width: 531px; height: 531px; position: absolute;" />
+        <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="play-button" class="button" style="background-image: url(&quot;project://database/Assets/Core/Sprites/UI/play-1.png?fileID=2800000&amp;guid=2be57a31d709134478789bd1622b265b&amp;type=3#play-1&quot;); width: 324px; height: 324px;" />
+    </ui:VisualElement>
+</ui:UXML>
